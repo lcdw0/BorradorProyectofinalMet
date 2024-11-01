@@ -23,5 +23,13 @@ namespace Borrador_1.Formularios
             frm.Show();
             this.Hide();
         }
+
+        private void btnBackCustomerToMain_Click(object sender, EventArgs e)
+        {
+            FrmMain frm = new FrmMain();
+            frm.Show();
+            this.Hide();
+             
+        }
     }
 }

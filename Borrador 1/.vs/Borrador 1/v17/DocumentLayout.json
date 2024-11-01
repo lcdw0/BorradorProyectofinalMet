@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\",
+  "WorkspaceRootPath": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmcustomeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmcustomeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmcustomeradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\borrador 1\\formularios\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|c:\\users\\lolv7\\onedrive\\desktop\\repositorio clonado\\borradorproyectofinalmet\\borrador 1\\borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619CAC15-4A41-426D-A76A-752B719D3602}|Borrador 1\\Borrador 1.csproj|solutionrelative:borrador 1\\formularios\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,88 +45,107 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmCustomerAdd.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomerAdd.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmCustomerAdd.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomerAdd.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmCustomerAdd.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T00:06:12.795Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmCustomer.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmCustomer.cs [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "FrmSearch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmSearch.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmSearch.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmSearch.cs [Design]",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmSearch.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:12:54.906Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-01T00:00:12.339Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmMain.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmMain.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmMain.cs [Dise\u00F1o]",
+              "Title": "FrmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmOrder.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmOrder.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmOrder.cs [Design]",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmOrder.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:51:38.961Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-31T23:56:04.559Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\FrmLogin.cs",
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Borrador 1\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\FrmLogin.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\FrmLogin.cs",
+              "RelativeToolTip": "Borrador 1\\FrmLogin.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:44:32.993Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmCustomer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T00:33:19.875Z",
+              "WhenOpened": "2024-10-31T23:28:29.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmOrder.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmOrder.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmOrder.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmOrder.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmOrder.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Borrador 1\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T23:16:44.962Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-10-31T23:26:25.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:25:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:19:58.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomer.cs",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmCustomer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vx4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:30:49.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FrmSearch.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmSearch.cs",
-              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmSearch.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto Final Segundo semestre\\Proyecto Final Segundo semestre\\Borrador 1\\Borrador 1\\Formularios\\FrmSearch.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Borrador 1\\Formularios\\FrmSearch.cs [Dise\u00F1o]",
+              "Title": "FrmCustomerAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomerAdd.cs",
+              "RelativeDocumentMoniker": "Borrador 1\\Formularios\\FrmCustomerAdd.cs",
+              "ToolTip": "C:\\Users\\lolv7\\OneDrive\\Desktop\\Repositorio clonado\\BorradorProyectofinalMet\\Borrador 1\\Borrador 1\\Formularios\\FrmCustomerAdd.cs [Design]",
+              "RelativeToolTip": "Borrador 1\\Formularios\\FrmCustomerAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T00:00:54.494Z"
+              "WhenOpened": "2024-10-31T23:19:55.101Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -16,5 +16,12 @@ namespace Borrador_1.Formularios
         {
             InitializeComponent();
         }
+
+        private void btnBackOrderFrmToMain_Click(object sender, EventArgs e)
+        {
+            FrmMain frm = new FrmMain();
+            frm.Show();
+            this.Hide();
+        }
     }
 }

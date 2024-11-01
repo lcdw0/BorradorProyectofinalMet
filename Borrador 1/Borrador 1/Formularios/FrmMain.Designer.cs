@@ -49,46 +49,44 @@
             this.editarUsuarioEToolStripMenuItem,
             this.eliminarUsuarioToolStripMenuItem});
             this.usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
-            this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(96, 32);
+            this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(79, 26);
             this.usuariosToolStripMenuItem.Text = "Usuarios";
             // 
             // crearUnUsuarioToolStripMenuItem
             // 
             this.crearUnUsuarioToolStripMenuItem.Name = "crearUnUsuarioToolStripMenuItem";
-            this.crearUnUsuarioToolStripMenuItem.Size = new System.Drawing.Size(243, 34);
+            this.crearUnUsuarioToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.crearUnUsuarioToolStripMenuItem.Text = "Crear un usuario";
             // 
             // editarUsuarioEToolStripMenuItem
             // 
             this.editarUsuarioEToolStripMenuItem.Name = "editarUsuarioEToolStripMenuItem";
-            this.editarUsuarioEToolStripMenuItem.Size = new System.Drawing.Size(243, 34);
+            this.editarUsuarioEToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.editarUsuarioEToolStripMenuItem.Text = "Editar usuario";
             // 
             // eliminarUsuarioToolStripMenuItem
             // 
             this.eliminarUsuarioToolStripMenuItem.Name = "eliminarUsuarioToolStripMenuItem";
-            this.eliminarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(243, 34);
+            this.eliminarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.eliminarUsuarioToolStripMenuItem.Text = "Eliminar usuario";
             // 
             // menuStrip1
             // 
-            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.usuariosToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(923, 36);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(6, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(820, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // btnCustomer
             // 
-            this.btnCustomer.Location = new System.Drawing.Point(177, 27);
-            this.btnCustomer.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnCustomer.Location = new System.Drawing.Point(157, 22);
             this.btnCustomer.Name = "btnCustomer";
-            this.btnCustomer.Size = new System.Drawing.Size(130, 70);
+            this.btnCustomer.Size = new System.Drawing.Size(116, 56);
             this.btnCustomer.TabIndex = 1;
             this.btnCustomer.Text = "Cliente";
             this.btnCustomer.UseVisualStyleBackColor = true;
@@ -98,56 +96,53 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(393, 64);
+            this.label1.Location = new System.Drawing.Point(349, 51);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 29);
+            this.label1.Size = new System.Drawing.Size(100, 25);
             this.label1.TabIndex = 2;
             this.label1.Text = "Gestiones";
             // 
             // btnOrder
             // 
-            this.btnOrder.Location = new System.Drawing.Point(177, 127);
-            this.btnOrder.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnOrder.Location = new System.Drawing.Point(157, 102);
             this.btnOrder.Name = "btnOrder";
-            this.btnOrder.Size = new System.Drawing.Size(130, 70);
+            this.btnOrder.Size = new System.Drawing.Size(116, 56);
             this.btnOrder.TabIndex = 3;
             this.btnOrder.Text = "Pedido";
             this.btnOrder.UseVisualStyleBackColor = true;
+            this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(177, 227);
-            this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnSearch.Location = new System.Drawing.Point(157, 182);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(130, 70);
+            this.btnSearch.Size = new System.Drawing.Size(116, 56);
             this.btnSearch.TabIndex = 8;
             this.btnSearch.Text = "Busqueda";
             this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.btnCustomer);
             this.groupBox1.Controls.Add(this.btnSearch);
             this.groupBox1.Controls.Add(this.btnOrder);
-            this.groupBox1.Location = new System.Drawing.Point(208, 117);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.groupBox1.Location = new System.Drawing.Point(185, 94);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox1.Size = new System.Drawing.Size(475, 359);
+            this.groupBox1.Size = new System.Drawing.Size(422, 287);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Seleccione una opcion";
             // 
             // FrmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(923, 596);
+            this.ClientSize = new System.Drawing.Size(820, 477);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "FrmMain";
             this.Text = "Menu Principal";
             this.menuStrip1.ResumeLayout(false);

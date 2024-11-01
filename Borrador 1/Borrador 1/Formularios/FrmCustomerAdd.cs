@@ -16,5 +16,18 @@ namespace Borrador_1.Formularios
         {
             InitializeComponent();
         }
+
+        private void btnCloseFrm_Click(object sender, EventArgs e)
+        {
+            FrmCustomer frm = new FrmCustomer();
+            this.Hide();
+            frm.Show();
+            
+
+
+        
+
+
+        }
     }
 }

@@ -28,5 +28,19 @@ namespace Borrador_1.Formularios
             frm.Show();
             this.Hide();
         }
+
+        private void btnOrder_Click(object sender, EventArgs e)
+        {
+            FrmOrder frm = new FrmOrder(); 
+            frm.Show();
+            this.Hide();
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            FrmSearch frm = new FrmSearch();  
+            frm.Show();
+            this.Hide();
+        }
     }
 }
